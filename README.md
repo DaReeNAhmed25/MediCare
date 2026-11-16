@@ -103,3 +103,10 @@ This project is being developed as a clinic management and appointment schedulin
 
  License
 No license has been specified yet.
+
+
+UI/UX Design
+
+The project UI/UX design was created using Figma.
+
+[View Figma Design] :(https://www.figma.com/design/E3QXTi7GxgNgDUs8HIEfDs/Untitled?node-id=0-1&t=Tg6kmalw70zP2qtU-1)
