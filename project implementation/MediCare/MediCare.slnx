@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/MediCare.Data/MediCare.Data.csproj" />
+    <Project Path="src/MediCare.Services/MediCare.Services.csproj" />
+    <Project Path="src/MediCare.Web/MediCare.Web.csproj" />
+  </Folder>
+</Solution>
